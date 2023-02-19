@@ -19,8 +19,7 @@ This is an C# console application that simply scans all the files in the `files`
   - The icon files have to be a `.png` file.
 - Start the application.
 
-
-  **How to build**
+**How to build**
 - Download .NET 6 [here](//dotnet.microsoft.com/download/dotnet/6.0).
 - Download/fork the code and open it with any C# IDE (Visual Studio or JetBrains Rider).
 - Get all icon files and place them in the `files` folder.
